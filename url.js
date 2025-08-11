@@ -8,5 +8,6 @@
 
 
 const urls = [
-	'https://zh.surveymonkey.com/r/3Q3ZWK5'
+	'https://zh.surveymonkey.com/r/6R5M6HP',
+	'https://zh.surveymonkey.com/r/HNK53HP'
 ];
