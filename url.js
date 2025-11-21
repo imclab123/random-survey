@@ -8,9 +8,9 @@
 
 
 const urls = [
-'https://zh.surveymonkey.com/r/ZG7T2FB',#T1
-'https://zh.surveymonkey.com/r/ZGVYRPN',#T2
-'https://zh.surveymonkey.com/r/FFW7LYS',#T3
-'https://zh.surveymonkey.com/r/FF2ZXFX',#T4
+'https://zh.surveymonkey.com/r/ZG7T2FB',
+'https://zh.surveymonkey.com/r/ZGVYRPN',
+'https://zh.surveymonkey.com/r/FFW7LYS',
+'https://zh.surveymonkey.com/r/FF2ZXFX'
    
 	];
